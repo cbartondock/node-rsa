@@ -39,5 +39,13 @@
   },
   "dependencies": {
     "asn1": "0.2.3"
+  },
+  "react-native": {
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto"
+  },
+  "browser": {
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto"
   }
 }
